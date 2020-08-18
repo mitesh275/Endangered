@@ -1,0 +1,63 @@
+body {
+	background-color: #ffff00;
+	margin: 0;
+	padding: 0;
+	scroll-behavior: none; 
+}
+#es {
+	color: blue;
+	margin: 20px
+}
+#esp {
+	margin: 20px;
+	font-size: 20px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#esp2 {
+	margin: 20px;
+	font-size: 20px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#hs {
+	color: red;
+	margin-left: 20px;
+	margin-top: 0;
+}
+#hsp {
+	margin: 20px;
+	font-size: 20px;
+	margin-bottom: 0;
+}
+#hsp2 {
+	margin: 20px;
+	font-size: 20px;
+	margin-top: 0;
+}
+#rd {
+	color: red;
+	margin-left: 20px;
+	margin-top: 0;
+}
+#rdh {
+	color: red;
+	margin-left: 20px;
+	margin-top: 0;
+	font-style: italic;
+}
+#rdh2 {
+	color: red;
+	margin-left: 20px;
+	font-style: italic;
+}
+#rdh3 {
+	color: red;
+	margin-left: 20px;
+	font-style: italic;
+}
+#rdh4 {
+	color: red;
+	margin-left: 20px;
+	font-style: italic;
+}
